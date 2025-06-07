@@ -1,4 +1,4 @@
-package com.neru.backend.common.exception;
+package com.neru.backend.global.exception;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;

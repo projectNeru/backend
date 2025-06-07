@@ -1,4 +1,4 @@
-package com.neru.backend.common.exception;
+package com.neru.backend.global.exception;
 
 import lombok.Getter;
 import org.springframework.http.HttpStatus;
